@@ -22,7 +22,7 @@ body {
 }
 
 .container {
-    width: 42.8rem;
+    width: 428px;
     padding: 48px 64px;
     border-radius: 5px;
     background-color: #FFFFFF;
@@ -111,12 +111,6 @@ body {
 .container .hide {
     display: none;
 }
-
-/* font-family: 'Dancing Script', cursive;
-font-family: 'DM Sans', sans-serif;
-font-family: 'Montserrat', sans-serif; */
-
-
 
 @keyframes wiggle {
     0% {
