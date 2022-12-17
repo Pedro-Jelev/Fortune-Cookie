@@ -2,7 +2,7 @@
 
 ## 💻 Sobre o desafio
 
-<p>Neste desafio foi criado um jogo chamado Biscoito da Sorte, no qual o usuário, a partir de um clique ou enter, abre um biscoito com a sua sorte do dia.</p>
+<p>Neste desafio foi criado um jogo chamado Biscoito da Sorte, no qual o usuário, a partir de um clique, abre um biscoito com a sua sorte do dia.</p>
 
 <p><strong><a href="https://pedro-jelev.github.io/Fortune-Cookie/">Aqui</a> você pode acessar o site e testar a sua sorte!</strong></p>
 
